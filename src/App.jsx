@@ -5,7 +5,7 @@ const App = () => {
     <div>
       <p className=' text-center text-4xl font-bold py-3'>Welcome to MERN stack</p>
       <div>
-        <div className=' grid grid-cols-1 md:grid-cols-4 px-[100px] pt-10 gap-10'>
+        <div className=' grid grid-cols-1 md:grid-cols-4 px-5 md:px-[100px] pt-10 gap-10'>
             <div className=' shadow-2xl  p-2 rounded-xl hover:scale-105 transition-all'>
                 <div>
                     <img src="https://ik.imagekit.io/jjyo3gsee/RevampImg/course1.png?updatedAt=1730215622138" alt="" />
